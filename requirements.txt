@@ -1,0 +1,10 @@
+numpy==2.5.4
+PyYAML==6.0.3
+matplotlib>=3.10
+sgp4>=2.5
+pytest>=8.0
+
+# ---- 明确不引入（有人想加先看这段） ----
+# scipy
+# pandas
+# skyfield/astropy
